@@ -1,2 +1,2 @@
 # leetcode-solutions
-This is a repo to record leedcode practice solutions.
+This is a repo to document personal leedcode practice solutions.
